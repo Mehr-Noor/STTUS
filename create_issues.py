@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 # ========= CONFIG =========
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "hp_Z6iKyYSlNnxvIRhEzbGTorbFpoTx2y1lDSgx"
 OWNER = "MehrNoor"
 REPO = "Intelligent-Ultrasound-Dictation-System"
 CSV_FILE = "issues_import (2).csv"
